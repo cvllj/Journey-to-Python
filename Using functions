@@ -1,0 +1,19 @@
+I will be using the square turtle as an example on how we can use a function
+
+import turtle
+import time
+
+my_turtle = turtle.Turtle()
+
+def square(): # def means define and after wards what would we call it, for me i named it square because it's logical because it's making a square
+    my_turtle.forward(100) # Now we have to press tab or indent all the my_turtle codes inside the define or the function
+    my_turtle.left(90)
+    my_turtle.forward(100)
+    my_turtle.left(90)
+    my_turtle.forward(100)
+    my_turtle.left(90)
+    my_turtle.forward(100)
+
+print(square()) # In order to print the function you must use print(name of the function()) to spit out the function
+
+time.sleep(2)
