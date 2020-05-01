@@ -1,0 +1,3 @@
+Strings are what we want to exactly say on what to print
+
+print("Hello World!") // Inside the quotation marks is what we call a string which is "Hello World!"
