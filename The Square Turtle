@@ -1,5 +1,5 @@
 import turtle
-import time // I used this just to pause the execution I was using PyCharm
+import time # I used this just to pause the execution I was using PyCharm
 
 my_turtle = turtle.Turtle()
 my_turtle.forward(100)
@@ -10,4 +10,4 @@ my_turtle.forward(100)
 my_turtle.left(90)
 my_turtle.forward(100)
 
-time.sleep(2) // Similar to this code is System.pause() but that's for a different language 
+time.sleep(2) # Similar to this code is System.pause() but that's for a different language 
