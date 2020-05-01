@@ -1,0 +1,7 @@
+When we talk about variables, we define what they are let me put an example
+
+bob = "A great guy" // in this line the variable would be bob
+x = 1231532151 // we can also define variables with numbers
+
+print(bob) // It will print "A great guy"
+print(x) // It will print "1231532151"
