@@ -3,16 +3,16 @@ import time
 
 my_turtle = turtle.Turtle()
 
-def square(n):
+def square(length):
 
-    my_turtle.forward(n)
+    my_turtle.forward(length)
     my_turtle.left(90)
-    my_turtle.forward(n)
+    my_turtle.forward(length)
     my_turtle.left(90)
-    my_turtle.forward(n)
+    my_turtle.forward(length)
     my_turtle.left(90)
     my_turtle.forward(n)
 
-print(square(200))
+print(square(200)) # basically we input the length of the square here in this line of code
 
 time.sleep(2)
